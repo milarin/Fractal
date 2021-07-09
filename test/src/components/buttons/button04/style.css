@@ -1,0 +1,19 @@
+.el_login_btn {
+  display: block;
+  width: 100%;
+  max-width: 226px;
+  padding: 10px;
+  background-color: #707070;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.el_login_btn:hover, .el_login_btn:focus {
+  opacity: .7;
+}
+/*# sourceMappingURL=style.css.map */

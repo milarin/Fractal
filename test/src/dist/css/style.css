@@ -36,3 +36,22 @@
     transform-origin: left top;
     transform: skewY(-10deg) scale(1, 1);
   }
+
+  .el_login_btn {
+    display: block;
+    width: 100%;
+    max-width: 226px;
+    padding: 10px;
+    background-color: #707070;
+    border-radius: 4px;
+    color: #333;
+    font-size: 0.875rem;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .el_login_btn:hover, .el_login_btn:focus {
+    opacity: .7;
+  }
